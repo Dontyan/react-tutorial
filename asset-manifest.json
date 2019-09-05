@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/react-tutorial/static/css/main.3be227ed.chunk.css",
-    "main.js": "/react-tutorial/static/js/main.ddc9d2cf.chunk.js",
-    "main.js.map": "/react-tutorial/static/js/main.ddc9d2cf.chunk.js.map",
+    "main.css": "/react-tutorial/static/css/main.2c546d90.chunk.css",
+    "main.js": "/react-tutorial/static/js/main.cde15afe.chunk.js",
+    "main.js.map": "/react-tutorial/static/js/main.cde15afe.chunk.js.map",
     "runtime~main.js": "/react-tutorial/static/js/runtime~main.31be0b04.js",
     "runtime~main.js.map": "/react-tutorial/static/js/runtime~main.31be0b04.js.map",
-    "static/js/2.c82cb072.chunk.js": "/react-tutorial/static/js/2.c82cb072.chunk.js",
-    "static/js/2.c82cb072.chunk.js.map": "/react-tutorial/static/js/2.c82cb072.chunk.js.map",
+    "static/js/2.fccd0601.chunk.js": "/react-tutorial/static/js/2.fccd0601.chunk.js",
+    "static/js/2.fccd0601.chunk.js.map": "/react-tutorial/static/js/2.fccd0601.chunk.js.map",
     "index.html": "/react-tutorial/index.html",
-    "precache-manifest.c117ee0b21936838c36b425699e0ea39.js": "/react-tutorial/precache-manifest.c117ee0b21936838c36b425699e0ea39.js",
+    "precache-manifest.867dd4745f184acfa5be2426603ac962.js": "/react-tutorial/precache-manifest.867dd4745f184acfa5be2426603ac962.js",
     "service-worker.js": "/react-tutorial/service-worker.js",
-    "static/css/main.3be227ed.chunk.css.map": "/react-tutorial/static/css/main.3be227ed.chunk.css.map",
-    "static/media/logo.svg": "/react-tutorial/static/media/logo.5d5d9eef.svg"
+    "static/css/main.2c546d90.chunk.css.map": "/react-tutorial/static/css/main.2c546d90.chunk.css.map",
+    "static/media/HIguchi.jpg": "/react-tutorial/static/media/HIguchi.efcf4fe1.jpg",
+    "static/media/animals.jpg": "/react-tutorial/static/media/animals.e8fdaacc.jpg",
+    "static/media/dolphin.jpg": "/react-tutorial/static/media/dolphin.a2bf1409.jpg",
+    "static/media/fox.jpg": "/react-tutorial/static/media/fox.c2e452d4.jpg",
+    "static/media/koala.jpg": "/react-tutorial/static/media/koala.a43f3643.jpg",
+    "static/media/mammal.jpg": "/react-tutorial/static/media/mammal.3edd36e2.jpg",
+    "static/media/pug.jpg": "/react-tutorial/static/media/pug.50743fe0.jpg",
+    "static/media/rabbit.jpg": "/react-tutorial/static/media/rabbit.ffdfb3e4.jpg"
   }
 }
